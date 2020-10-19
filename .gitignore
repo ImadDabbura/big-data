@@ -133,3 +133,6 @@ dmypy.json
 **/metastore_db
 **/spark-warehouse
 **/tmp
+
+# virtual env
+**/.virtual_documents
